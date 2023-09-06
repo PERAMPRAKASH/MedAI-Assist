@@ -37,5 +37,5 @@ We welcome contributions from the community. If you'd like to contribute to MedA
 
 ## Documentation
 
-To understand [Flask](https://flask.palletsprojects.com/en/2.3.x/)
+To understand [Flask](https://flask.palletsprojects.com/en/2.3.x/).
 
